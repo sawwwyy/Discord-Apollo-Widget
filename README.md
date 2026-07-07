@@ -30,12 +30,9 @@ Add a widget to your Discord profile with your Cosmo Objekt statistics!
 
 After you add the widget to your profile, it should now reload every X minutes (set in the config file).
 
-## Issues
-
-Do NOT open issues for problems with Discord. You will be blocked from opening issues. Issues are exclusively for problems with the script.
+---
 
 This scrapes apollo.cafe directly since there's no public API - if Apollo changes their site layout, the script may break until it's updated.
 
----
 
-Made by [@bleood](https://github.com/bleood)
+
