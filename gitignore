@@ -1,0 +1,3 @@
+config_cosmo.json
+*.log
+__pycache__/
