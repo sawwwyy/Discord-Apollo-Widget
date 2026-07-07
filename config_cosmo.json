@@ -1,0 +1,11 @@
+{
+    "refresh_mins": 60,
+    "users": [
+        {
+            "username": "Apollo username",
+            "id": "Discord user ID",
+            "token": "Discord bot token",
+            "app_id": "Discord app ID"
+        }
+    ]
+}
