@@ -23,7 +23,7 @@ Add a widget to your Discord profile with your Cosmo Objekt statistics!
      - `premier_class_objekts` (Premier class objekts)
 3. Copy the configuration template
    - `cp config_cosmo.json.templ config_cosmo.json`
-   - This is where you add your Discord app ID, user ID, etc. Feel free to put as many users as you want!
+   - This is where you add your Discord app ID, user ID, etc.
    - Never commit `config_cosmo.json` itself once it has your real bot token in it - only the `.templ` version should go in the repo.
 4. Run the script!
    - `python3 refresh_cosmo.py`
